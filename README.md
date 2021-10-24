@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode刷题记录
+小白的LeetCode刷题记录
